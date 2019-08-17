@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "873775470821",
+    "firebase_url": "https://flutter-diplomski.firebaseio.com",
+    "project_id": "flutter-diplomski",
+    "storage_bucket": "flutter-diplomski.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873775470821:android:92b75bb28faa934f",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873775470821-616bclc22rmpb1ddt8eee319ll7022h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4lN5WPBzcVhjENWQIVm1BP-QaOtYDiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873775470821-616bclc22rmpb1ddt8eee319ll7022h0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873775470821-jci2ilrt2q4fdi0pv0jlmqra70b39ff3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
